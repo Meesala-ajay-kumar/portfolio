@@ -726,9 +726,6 @@ section {
     height: 250px;
     border-radius: 50%;
     overflow: hidden; /* 🔥 IMPORTANT */
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .image-placeholder img {
