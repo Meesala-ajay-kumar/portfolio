@@ -735,6 +735,8 @@ section {
     width: 100%;
     height: 100%;
     object-fit: cover; /* 🔥 keeps image nicely cropped */
+    object-position:center;
+    display:block;
 }
 
 /* Skills Section */
