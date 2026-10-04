@@ -16,6 +16,13 @@ body {
     overflow-x: hidden;
 }
 
+.experience-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
 /* Loading Screen */
 .loading-screen {
     position: fixed;
